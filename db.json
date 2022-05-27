@@ -1340,6 +1340,33 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "id": "955f708b-5bbe-4e04-9acb-f4e066099303",
+      "name": "Bulbasaur",
+      "hp": 88,
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+      }
+    },
+    {
+      "id": "61dce56d-fe0b-4ac6-807e-d5af4e68e8f2",
+      "name": "Rando",
+      "hp": 999,
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/199.png"
+      }
+    },
+    {
+      "id": "cdceaefb-b701-422d-bc24-2d2eb974ff67",
+      "name": "Doc Martin",
+      "hp": 44,
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/200.png"
+      }
     }
   ]
 }
